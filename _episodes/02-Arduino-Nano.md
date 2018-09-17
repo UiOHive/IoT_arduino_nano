@@ -54,7 +54,7 @@ An Arduino Nano is a very tiny and simple microcontroller:
 - Flash Memory:	32 KB of which 2 KB used by bootloader
 - SRAM:	2 KB (Static Random Access Memory)
 - Clock Speed:	16 MHz
-- Analog IN Pins:	8
+- Analog IN Pins:	8 (10 bits of resolution, from ground to 5 volts)
 - EEPROM:	1 KB (Electrically Erasable Programmable Read-Only Memory)
 - Digital I/O Pins:	22 (6 of which are PWM)
 - PWM Output:	6 (Pulse with Modulation)
