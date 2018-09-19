@@ -222,7 +222,7 @@ void loop() {
   delay(2000);                       // wait for a second
 }
 ~~~
-{: .language-bash}
+{: .language-c++}
 
 - Try to execute it:
 
