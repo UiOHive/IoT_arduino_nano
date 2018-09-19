@@ -100,7 +100,7 @@ delay(100);
 
 }
 ~~~
-{: .language-bash}
+{: .language-c++}
  
 As before you can recognize the two main parts of the program:
 
@@ -171,7 +171,7 @@ delay(100);
 
 }
 ~~~
-{: .language-bash}
+{: .language-c++}
 
 ## DS18b20 information
 
@@ -319,7 +319,7 @@ void loop(void) {
   Serial.println(celsius);
 }
 ~~~
-{: .language-bash}
+{: .language-c++}
 
 ## Visualize data
 
